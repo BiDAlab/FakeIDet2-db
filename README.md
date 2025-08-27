@@ -93,10 +93,11 @@ Furthermore, results using attacks from out-of-distribution data from the DLC-20
 
 ![image info](./assets/otherdbs_results.png)
 
-Table 2: Results of FakeIDet2 in the DLC-2021, KID34K and BenalcazarDB databases. These results are obtained using ONLY our FakeIDet2-db.
+Table 2: Results of FakeIDet2 in the DLC-2021, KID34K and BenalcazarDB databases. These results are obtained using **ONLY** our FakeIDet2-db.
 
 # REFERENCES
 
 For further information on the database and on different extensions and systems based on this database, refer to:
 
-* J. Muñoz-Haro, R. Tolosana, J. Fierrez, R. Vera-Rodriguez and A. Morales, “Privacy-Aware Detection of Fake Identity Documents: Methodology, Benchmark, and Improved Detection Methods (FakeIDet2)”, arXiv:2508.11716, 2025
+* J. Muñoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales and J. Fierrez, “FakeIDet: Exploring Patches for Privacy-Preserving Fake ID Detection”, In Proc. IJCB 2025.
+
