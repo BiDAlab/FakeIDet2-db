@@ -5,9 +5,9 @@ J. Muñoz-Haro, R. Tolosana, J. Fierrez, R. Vera-Rodriguez and A. Morales “[Pr
 ](https://arxiv.org/abs/2508.11716)”, arXiv preprint arXiv:2508.11716, 2025. 
 
 ## DOWNLOAD INSTRUCTIONS for FakeIDet2-db
-1. Download the corresponding license agreement:
+1. Download the corresponding license agreement in the repository:
     
-    [[link](link)] Permanent researchers working at research or academic institutions, and selected companies generating research outcomes.
+    The license agreement can only be signed by permanent researchers working at research or academic institutions, and selected companies generating research outcomes.
     
     Once the corresponding license agreement is signed, send the scanned copy to atvs@uam.es according to the instructions given in point 2.
 
