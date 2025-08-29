@@ -2,7 +2,7 @@
 
 ## ARTICLE
 J. Muñoz-Haro, R. Tolosana, J. Fierrez, R. Vera-Rodriguez and A. Morales “[Privacy-Aware Detection of Fake Identity Documents: Methodology, Benchmark, and Improved Detection Methods (FakeIDet2)
-](https://arxiv.org/abs/2508.11716)”, _Under Review_. 
+](https://arxiv.org/abs/2508.11716)”, arXiv preprint arXiv:2508.11716, 2025. 
 
 ## DOWNLOAD INSTRUCTIONS for FakeIDet2-db
 1. Download the corresponding license agreement:
