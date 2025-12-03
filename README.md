@@ -37,7 +37,7 @@ The FakeIDet2-db database is divided in to two sets, one for training and one fo
 All data is organized as follows:
 
 ```
-DeepSignDB
+FakeIDet2-db
 |-- Pseudo-Anon
     |-- 64x64
         |-- Train
@@ -93,7 +93,7 @@ Furthermore, results using attacks from out-of-distribution data from the DLC-20
 
 ![image info](./assets/otherdbs_results.png)
 
-Table 2: Results of FakeIDet2 in the DLC-2021, KID34K and BenalcazarDB databases. These results are obtained using **ONLY** our FakeIDet2-db.
+Table 2: Results of FakeIDet2 in the DLC-2021, KID34K and BenalcazarDB databases. These results are obtained using **ONLY** FakeIDet2-db as the training set.
 
 # REFERENCES
 
